@@ -91,13 +91,7 @@ Then open `http://127.0.0.1:8050`.
 - Train or apply sentiment model.
 - Report performance and key insights.
 
-## Optional: Snake Game
 
-Run directly:
-- Open `snake/index.html` in your browser.
-
-Or serve the repository root and navigate to:
-- `/snake/`
 
 ## Notes for Submission
 
